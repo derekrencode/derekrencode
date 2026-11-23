@@ -1,20 +1,29 @@
-<!--
-**ren-woohoo/ren-woohoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 你好，我是 Derek Ren 👋
 
-Here are some ideas to get you started:
+*Embedded / hardware & backend developer · Altium · Embedded Linux · Neovim*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ren-woohoo&show_icons=true&theme=radical&hide_title=true" />
+嵌入式与硬件方向的开发者，也写一些后端。常用工具与关注点：
 
-### Keep Learning, Keep Hacking
+- **硬件设计**：Altium Designer 原理图与 PCB，维护自用元件库
+- **嵌入式 Linux**：外设调试（如 Wi-Fi 模块的命令行测试）
+- **后端**：服务配置中心选型（Nacos / Apollo）
+- **开发环境**：Neovim、tmux、starship，终端党
 
-- 🌍 Passionate about coding, shaping the world with every line.
-- 🎯 Code like life—embrace challenges, write the next possibility.
+#### 项目
+
+| 仓库 | 说明 |
+| --- | --- |
+| [ad-libs](https://github.com/derekrencode/ad-libs) | 个人 Altium 元件库（SchLib / PcbLib） · *personal Altium component library* |
+| [derekrencode.github.io](https://github.com/derekrencode/derekrencode.github.io) | 技术博客源码（Hexo） · *blog source* |
+| [hexo-theme-light](https://github.com/derekrencode/hexo-theme-light) | 博客所用主题的定制版 · *customized Hexo theme* |
+
+#### 博客
+
+<https://derekrencode.github.io/>
+
+- Linux Wi-Fi 测试实例
+- nvim 插件之 lazygit
+- nacos vs apollo
+- starship 的安装与配置
+
+> Be water, my friend.
